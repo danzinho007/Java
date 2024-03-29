@@ -141,3 +141,156 @@ Exemplo MINHA_CONSTANTE VALOR_DE_PI
 -----------------------------------------------
 Pesquisar Java JIT, IDE Eclipse, IDE InteligJay, 
 
+
+==================
+
+Forças Armadas >
+
+Aeronáutica :
+EAGSSin
+
+Marinha :
+CAP
+
+Linguagem de Programação :
+Delphi
+De Maquine
+Assembly
+Visual Basic
+
+Montadores :
+Assembler
+
+Sistema operacional 
+Windows X
+
+Código Fonte > Código Objeto >Código Executável
+
+CF > CO = Compilação
+CO > CE = Linker
+CF > CE = Interpretador
+
+Operadores :
+% : resto da divisão
+5 % 2 = 1
+8 % 2 = 0
+
+Fluxograma = Representação gráfica de dados
+
+Java > Compilador Java ( JavaC ) > Código Binário > Bytecode > Java Virtual Machine ( JVM ) > PC
+
+WORA ( Write Once Run Anywhere ) ( Escreva uma vez e execute em qualquer lugar )
+
+1-JRE ( Java Runtime Environment ) >
+
+JVM :
+Loader / Verificador
+Interpretador / Gerenciador de Memória 
+Compilador JIT 
+
+Bibliotecas :
+
+2-JDK ( Java Development Kit ) >
+
+JRE 
+
+Java Lang
+
+Java Tools :
+Java C 
+Debugger
+APIs
+
+IDE
+
+Programação KhanAcademy
+Javascript
+
+Aula 01 :
+
+//Fundo Azul
+background(209, 255, 244);
+
+//Texto tamanho 22
+textSize(22);
+
+//Cor do Texto preto
+fill(0, 0, 0)
+
+//Mensagem em 20, 180
+text("Agora é hora de começar a aprender", 20, 181);
+
+//Linha de 200,200 a 150,250
+line(200, 200, 150, 250);
+
+//imagem em 40, 250
+image(getImage("creatures/Happer-Happy"), 40, 250);
+
+Aula 02 :
+
+-Função ellipse ( Círculo )
+ellipse(x, y, w, h)
+x = horizontal ( para direita ou para esquerda ) 0 até 400
+y = vertical ( para cima ou para baixo ) 0 até 400
+w = largura ( mais gorda ou magra )
+h = altura ( pequena ou alta )
+
+-Função line(x, y, w, h)
+-Função rect ( Retângulo )
+rect(x¹, y¹, x², y²)
+
+//Isso é um comentário
+
+Aula 03 :
+
+background(148, 251, 255); // RGB
+Colorir o fundo da imagem
+
+noStroke();
+Remove os contornos da imagem
+
+//face
+fill(255, 255, 0);
+Colorir todo rosto
+ellipse(202, 208, 300, 300);
+
+//eyes
+fill(0, 0, 0);
+ellipse(157, 151, 40, 40);
+ellipse(304, 142, 40, 40);
+
+//mouth
+fill(255, 0, 0);
+ellipse(257, 240, 120, 136);
+
+//headband
+strokeWeight(33);
+grossura da linha
+
+stroke(250, 0, 242);
+cor da linha
+ 
+line(83, 116, 271, 74);
+Cria uma linha
+
+Aula 04
+
+ellipse
+fill
+noStroke
+var 
+
+Aula 05
+
+background
+draw
+fill
+function
+noStroke
+Operadores Matemáticos( +- */ )
+rect
+var
+x = x +1 ou x += 1 ou x++
+
+
+
