@@ -4,10 +4,6 @@ import java.util.Date;
 import java.time.*;
 import java.time.format.DateTimeFormatter;
 
-/**
- *
- * @author Daniel
- */
 public class HoraDoSistema {
 
 /* 
