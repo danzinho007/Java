@@ -2,7 +2,6 @@ package com.mycompany.resolucaodosistema;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
-// Programa pra 
 
 /**
  *
