@@ -1,4 +1,5 @@
 ﻿Estudo Java
+https://www.cursoemvideo.com/curso/java-basico/#google_vignette
 
 Aulas :
 01 - História
@@ -291,8 +292,6 @@ Operadores Matemáticos( +- */ )
 rect
 var
 x = x +1 ou x += 1 ou x++
-
-
 
 Rever 05
 https://www.cursoemvideo.com/curso/java-basico/aulas/java/modulos/tipos-primitivos-e-manipulacao-de-dados/#google_vignette
