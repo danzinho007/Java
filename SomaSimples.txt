@@ -1,4 +1,3 @@
-
 Soma Simples : Inteiros e Decimais
 
 Inteiros :
